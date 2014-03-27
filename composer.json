@@ -1,0 +1,26 @@
+{
+    "name": "joostdekeijzer/i18n-search",
+    "description": "CakePHP i18n Search Plugin",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp", "i18n", "l10n", "search"],
+    "homepage": "https://github.com/joostdekeijzer/CakePHP-I18nSearch",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joost de Keijzer",
+            "homepage": "http://dekeijzer.org",
+            "role": "Author"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/joostdekeijzer/CakePHP-I18nSearch/issues",
+        "source": "https://github.com/joostdekeijzer/CakePHP-I18nSearch"
+    },
+    "require": {
+        "php": ">=5.2.8",
+        "composer/installers": "*"
+    },
+    "extra": {
+        "installer-name": "I18nSearch"
+    }
+}
