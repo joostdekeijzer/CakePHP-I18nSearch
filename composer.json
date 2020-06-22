@@ -1,5 +1,5 @@
 {
-    "name": "joostdekeijzer/i18n-search",
+    "name": "dkzr/cakephp-i18n-search",
     "description": "CakePHP i18n Search Plugin",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "i18n", "l10n", "search"],
