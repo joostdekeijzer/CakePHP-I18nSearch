@@ -1,6 +1,7 @@
 {
     "name": "dkzr/cakephp-i18n-search",
     "description": "CakePHP i18n Search Plugin",
+    "abandoned": true,
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "i18n", "l10n", "search"],
     "homepage": "https://github.com/joostdekeijzer/CakePHP-I18nSearch",
