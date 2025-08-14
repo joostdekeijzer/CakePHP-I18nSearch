@@ -1,5 +1,8 @@
-CakePHP-I18nSearch
-==================
+CakePHP-I18nSearch (deprecated)
+===============================
+
+> [!WARNING]
+> As of august 2025 this is deprecated software.
 
 Behavior to make i18 searches easier
 
